@@ -22,7 +22,8 @@ int main() {
    printf("%d ", maximum(no1, no2));
    printf("%d ", multiply(no1, no2));
    return 0;
-}
+}//end function main
+
 
 //function implementation
 

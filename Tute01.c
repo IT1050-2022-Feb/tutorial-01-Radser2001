@@ -25,5 +25,6 @@ int main() {
   printf("Average: %.2f", avg);
 
   return 0;
+  
 }//end function main
 
